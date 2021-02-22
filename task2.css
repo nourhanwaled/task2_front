@@ -1,0 +1,160 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(image/b5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+.navbar ul li{
+    float: left;
+    padding: 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #f4D03f;
+    font-size: 25px;
+    text-shadow: 5px 5px 5px white;
+}
+p{
+    clear: both;
+    color:aqua;
+    text-shadow: 5px 5px 5px white;
+    word-spacing: 80px;
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+span{
+    text-shadow: 5px 5px 5px yellow;
+}
+.img1{
+    border-radius: 50%;
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-left: 160px;
+    margin-top: 20px;
+    display: block;
+}
+.btn1{
+    width: 130px;
+    height: 70px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:#f39c12;
+    text-shadow: 2px 2px 2px white;
+    float: left;
+    overflow: hidden;
+    margin-left: 400px;
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+.btn2{
+    width: 130px;
+    height: 70px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:#f39c12;
+    text-shadow: 2px 2px 2px white;
+    float: left;
+    overflow: hidden;
+    margin-left: 500px;
+    margin-top: 35px;
+    margin-bottom: 50px;
+   
+}
+/* css about dress1*/
+.dress1{
+    clear: both;
+    width: 25%;
+    margin: auto;
+    height: 500px;
+    border-radius: 20px;
+    background: rgb(219,146,50);
+    margin-top: 100px;
+    text-align: center;
+    padding: 50px 40px;
+}
+.dress1 h1{
+    color: aqua;
+    text-shadow: 2px 2px 2px white;
+}
+.dress1 img{
+    width: 260px;
+    height: 400px;
+    padding: 13px;
+}
+.dress1 button{
+    display: block;
+    width: 120px;
+    height: 70px;
+    border-radius: 120px;
+    border: dotted 7px;
+    font-size: 20px;
+    border-color: white;
+    text-shadow: 2px 2px 2px white;
+    margin: auto;
+    background-color: #f39c12;
+}
+/*finished css about dress1*/
+/*css about img2*/
+.img2{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(219,146,50);
+    width: 50%;
+    height: 500px;
+    margin-left: 390px;
+    margin-top: 50px;
+}
+/*css about dress2*/
+.dress2{
+    clear: both;
+    width: 25%;
+    margin: auto;
+    height: 500px;
+    border-radius: 20px;
+    background: rgb(219,146,50);
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px 40px;
+}
+.dress2 h1{
+    color: aqua;
+    text-shadow: 2px 2px 2px white;
+}
+.dress2 img{
+    width: 260px;
+    height: 400px;
+    padding: 13px;
+}
+.dress2 button{
+    display: block;
+    width: 120px;
+    height: 70px;
+    border-radius: 120px;
+    border: dotted 7px;
+    font-size: 20px;
+    border-color: white;
+    text-shadow: 2px 2px 2px white;
+    margin: auto;
+    background-color:#f39c12;
+}
+/*findhed css about dress2*/
+/*css about img3*/
+.img3{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(219,146,50);
+    width: 50%;
+    height: 500px;
+    margin-left: 390px;
+    margin-top: 50px;
+}
+/*finished css about img3*/
